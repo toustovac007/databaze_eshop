@@ -1,0 +1,13 @@
+E shop s deskovými hrami.
+
+Entita - Zakázka (id, čas přietí, status, adresa doručení, forma převzetí, datum odeslání - (může být NULL), zákazník, celková cena, jednotlivé položky) - propoj na zákazníka, položky
+Entita - Objednávka(id, položky, dodavatel, cena objednávky, status, datum převzetí - (může být NULL)) - propoj na dodavatele, položky
+
+Entita - Zákazník (id, jméno, příjmení, počet jeho objednávek, tel. č., mobil., e-mail)
+
+Entita - Položka zboží - desková hra (název, autor/autoři, vydavatel(é), žánry, dodavatel, cena prodeje, cena koupě, hmotnost, počet na skladě) - propoj na autor, vydavatel, žánr, časová náročnost, doporučený věk, obtížnost, dodavatel)
+
+Entita - Autor (id, jméno, příjmení)
+Entita - Žánr (Název, popis)
+Entita - Vydavatelství (Název, popis o specializacích)
+Entita - Dodavatel (id, název firmy dodavatele, Počet doručených objednávek)

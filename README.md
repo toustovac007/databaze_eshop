@@ -1,8 +1,4 @@
-Níže máš **nastylované, moderní a přehledné README.md** připravené pro GitHub repozitář
-**„E-shop s deskovými hrami“**.
-Stačí vložit do souboru *README.md*.
 
----
 
 # 🛒 E-shop s deskovými hrami – SQL databáze
 

@@ -124,6 +124,8 @@ mysql -u root -p < eshop_deskove_hry.sql
 
 ---
 
+
+odkaz na diagram v dbdiagram.io: https://dbdiagram.io/d/690dc7316735e11170b77da2
 ## 📜 Licence
 
 Projekt je dostupný pro studijní a demonstrační účely.
